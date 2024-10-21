@@ -1,7 +1,7 @@
 # Internship at CognoRise Infotech  
 **Intern Name**: Prateek Kumawat  
 **Position**: Machine Learning Intern  
-**Start Date**: September 07, 2024  
+**Start Date**: September 20, 2024  
 **Internship Duration**: 4 weeks  
 **Company**: CognoRise Infotech  
 **Company Website**: [CognoRise Infotech](https://www.linkedin.com/company/cognoriseinfotech/)
